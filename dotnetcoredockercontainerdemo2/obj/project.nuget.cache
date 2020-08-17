@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "39WeUz9IwweQgMI3ItkMhYoGYaA2daqCp+pcnYIZcRVOZZ/8mm4DK4r3vqnwEiWtdfAq4E87NXBOUQhzdUefew==",
+  "dgSpecHash": "vG0n+oAe7ytwwqSNXLfg0OfJO7hNS7yenXUmFczYd7mEVaGDUPchxcyZ4pG6a1eOn1jzv28yG7DpuBb2jF3j+g==",
   "success": true,
   "projectFilePath": "F:\\Trainings\\DotNetCore\\DotnetDocker\\dotnetcoredockercontainerdemo2\\dotnetcoredockercontainerdemo2\\dotnetcoredockercontainerdemo2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Spandana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
